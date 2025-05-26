@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adminaccounts>
+    <admin>
+        <adminid>1</adminid>
+        <name>Grace S. Garces</name>
+        <username>admin1</username>
+        <password>password123</password>
+        <profilePicture>dp\Grace.png</profilePicture>
+        <description>Backend Engineer | Database Architect</description>
+    </admin>
+    <admin>
+        <adminid>2</adminid>
+        <name>Ken D.L. Chico</name>
+        <username>admin2</username>
+        <password>password123</password>
+        <profilePicture>dp\Ken.png</profilePicture>
+        <description>Frontend Specialist | UI/UX Wizard</description>
+    </admin>
+</adminaccounts>

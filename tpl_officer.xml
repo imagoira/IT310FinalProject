@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<officerInfo>
+<officer>
+    <uniqueID>1</uniqueID>
+    <name>Lester Phil M. Cruz, MSCpE</name>
+    <age>N/A</age>
+    <studentID>N/A</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Adviser</position>
+    <profilePicture>dp/adviser_lester.jpg</profilePicture>
+</officer>
+<officer>
+    <uniqueID>2</uniqueID>
+    <name>Jean Eren D. Fajardo</name>
+    <age>N/A</age>
+    <studentID>N/A</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Adviser I</position>
+    <profilePicture>dp/adviser_eren.png</profilePicture>
+</officer>
+<officer>
+    <uniqueID>3</uniqueID>
+    <name>Gabriel M. Galang, MSIT</name>
+    <age>N/A</age>
+    <studentID>N/A</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Adviser II</position>
+    <profilePicture>dp/adviser_gab.jpg</profilePicture>
+</officer>
+<officer>
+    <uniqueID>4</uniqueID>
+    <name>John Anfernee Matthew R. De Guzman</name>
+    <age>21</age>
+    <studentID>2022100664</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>President</position>
+    <profilePicture>dp/1746365931_Jam.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>5</uniqueID>
+    <name>Grace S. Garces</name>
+    <age>20</age>
+    <studentID>2022100487</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>External Vice President</position>
+    <profilePicture>dp/1746365983_Garces.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>6</uniqueID>
+    <name>Christian D. Gantang</name>
+    <age>21</age>
+    <studentID>2022100628</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Internal Vice President</position>
+    <profilePicture>dp/1746366454_Cyrus.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>7</uniqueID>
+    <name>Miyuki Angel C. Ando</name>
+    <age>21</age>
+    <studentID>2022105277</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Recordkeeping Chairperson</position>
+    <profilePicture>dp/1746366494_Yuki.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>8</uniqueID>
+    <name>Karl Christian E. Arellano</name>
+    <age>21</age>
+    <studentID>2022105273</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Finance Chairperson</position>
+    <profilePicture>dp/1746366837_Arellano.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>9</uniqueID>
+    <name>Robert Jeriko S. Reyes</name>
+    <age>20</age>
+    <studentID>2022100482</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Auditing Chairperson</position>
+    <profilePicture>dp/1746366929_Reyes (Sorry Lester_p).JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>10</uniqueID>
+    <name>John Lester F. Sta. Ana</name>
+    <age>21</age>
+    <studentID>2022100665</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Public Relations Chairperson</position>
+    <profilePicture>dp/1746367040_Lester.JPG</profilePicture>
+</officer>
+<officer>
+    <uniqueID>11</uniqueID>
+    <name>Lance Louise M. Estrella</name>
+    <age>21</age>
+    <studentID>2022100662</studentID>
+    <course>Bachelor of Science in Information Technology</course>
+    <position>Membership Chairperson</position>
+    <profilePicture>dp/1746367191_Estrella.JPG</profilePicture>
+</officer>
+<officer><uniqueID>12</uniqueID><name>Franz Rainier Adriano</name><age>23</age><studentID>2021100400</studentID><course>Bachelor of Science in Information Technology</course><position>Alumni Officer</position><profilePicture>dp/1748198048_alumni_franz.jpg</profilePicture></officer><officer><uniqueID>13</uniqueID><name>Janver Flores</name><age>20</age><studentID>2023100221</studentID><course>Bachelor of Science in Information Technology</course><position>House Prefect</position><profilePicture>dp/1748198215_hp_janver.jpg</profilePicture></officer><officer><uniqueID>14</uniqueID><name>John Derrick Libot</name><age>21</age><studentID>2023100222</studentID><course>Bachelor of Science in Information Technology</course><position>House Prefect</position><profilePicture>dp/1748198571_hp_john.jpg</profilePicture></officer><officer><uniqueID>15</uniqueID><name>Joseph Aniag </name><age>21</age><studentID>2023100223</studentID><course>Bachelor of Science in Information Technology</course><position>House Prefect</position><profilePicture>dp/1748198624_hp_joseph.jpg</profilePicture></officer><officer><uniqueID>16</uniqueID><name>Keith Christopher Punla </name><age>21</age><studentID>2022100771</studentID><course>Bachelor of Science in Information Technology</course><position>House Prefect</position><profilePicture>dp/1748198714_hp_keith.jpg</profilePicture></officer><officer><uniqueID>17</uniqueID><name>Emmanuel Anthony Perez</name><age>23</age><studentID>2022100772</studentID><course>Bachelor of Science in Information Technology</course><position>Membership Dept. Representative</position><profilePicture>assets/default_profile.jpg</profilePicture></officer><officer><uniqueID>18</uniqueID><name>Rizzah Mei Pascual</name><age>24</age><studentID>2021100555</studentID><course>Bachelor of Science in Information Technology</course><position>Communication Dept. Representative</position><profilePicture>assets/default_profile.jpg</profilePicture></officer><officer><uniqueID>19</uniqueID><name>Princess Anne De Jesus</name><age>21</age><studentID>2022100888</studentID><course>Bachelor of Science in Information Technology</course><position>BA Representative</position><profilePicture>assets/default_profile.jpg</profilePicture></officer><officer><uniqueID>20</uniqueID><name>Crystel Lachica</name><age>21</age><studentID>2022100657</studentID><course>Bachelor of Science in Information Technology</course><position>BA Representative</position><profilePicture>assets/default_profile.jpg</profilePicture></officer><officer><uniqueID>21</uniqueID><name>Carl Andrei Mendoza</name><age>21</age><studentID>2022100634</studentID><course>Bachelor of Science in Information Technology</course><position>BA Representative</position><profilePicture>assets/default_profile.jpg</profilePicture></officer></officerInfo>
