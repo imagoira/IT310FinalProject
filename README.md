@@ -23,6 +23,10 @@ This website highlights the advisers and officers list of the Techno Paragons Le
 
 - You can also view the website through this link: [insert hosting link]
 
+## The Developers
+- Garces, Grace S. (3A-G2)
+- Chico, Ken D.L. (3A-G2)
+  
 ---
 
 This project is a PHP-based showcase of the organization's officers list with default images handled via PHP logic.
